@@ -1,4 +1,4 @@
-package main
+package intermediate
 
 import "fmt"
 
@@ -97,6 +97,11 @@ type PhoneNumber struct{
 	Home string
 	mobile string
 }
+
+
+
+
+
 
 
 
